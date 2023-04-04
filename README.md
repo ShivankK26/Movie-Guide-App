@@ -5,7 +5,7 @@
 
 
 
-In this Project, I've built a Movie Guide App using omdb API through which you can search for any movie and get all the information related to it.
+In this Project, I've built a Movie Guide App using omDb API through which you can search for any movie and get all the information related to it.
 
 
 Use the `README.md` to get started.
@@ -27,7 +27,7 @@ The Tech Stacks used are:
 
 <!-- GETTING STARTED -->
 # Getting Started
-To get started, first of all create the basic HTML and CSS files. In the CSS file, we'll use some webkits and google font API. We'll also use media queries. 
+To get started, first of all create the basic HTML and CSS files. In the CSS file, we'll use some webkits and Google Font API. We'll also use media queries. 
 
 ## Installation
 After performing the above steps, we'll generate the omDb API from their official documentation.
@@ -49,6 +49,6 @@ After performing the above steps, we'll generate the omDb API from their officia
 <!-- CONTACT -->
 # Contact
 
-Name: Shivank Kapur - shivankkapur2004@example.com
+Name: Shivank Kapur - shivankkapur2004@gmail.com
 
 Project Link: https://shivankk26.github.io/Movie-Guide-App/
